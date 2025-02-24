@@ -1,0 +1,3 @@
+[submodule "sathya_devops_training"]
+	path = sathya_devops_training
+	url = https://github.com/SathyaBhushan1999/sathya_devops_training.git
